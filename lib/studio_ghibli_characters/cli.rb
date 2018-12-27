@@ -35,9 +35,9 @@ class StudioGhibliCharacters::CLI
         menu
       end
     end
-  end
 
   def goodbye
     puts "Thanks for checking out my project!"
     exit
   end
+end
